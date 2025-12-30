@@ -1,1 +1,1 @@
-print("xin chao")
+print(" Từ chối xin chào")
