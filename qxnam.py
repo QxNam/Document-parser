@@ -1,1 +1,0 @@
-print("xin chào ne")
